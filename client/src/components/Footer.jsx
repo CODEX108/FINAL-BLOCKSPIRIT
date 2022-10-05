@@ -11,10 +11,9 @@ const Footer = () =>{
         </div>
         <div className='flex flex-1 justify-evenly items-center flex-wrap
         sm:mt-0 mt-10'>
-        <p className='text-white text-base text-center mx-2 cursor-pointer'>Market</p>
-        <p className='text-white text-base text-center mx-2 cursor-pointer'>Exchange</p>
+        {/* <p className='text-white text-base text-center mx-2 cursor-pointer'>Market</p>
         <p className='text-white text-base text-center mx-2 cursor-pointer'>Tutorial</p>
-        <p className='text-white text-base text-center mx-2 cursor-pointer'>Wallet</p>
+        <p className='text-white text-base text-center mx-2 cursor-pointer'>Wallet</p> */}
         </div>
         </div>
 
