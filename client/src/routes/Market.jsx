@@ -6,8 +6,8 @@ import market from '../components/market.css';
 const Market = ()=>{
     return (
     <div className="min-h-screen">
-     <div className="gradient__bg"> 
-        
+     <div className="gradient-bg-welcome"> 
+        <Navbar />
         <MarketPlace />  
         <Footer />      
     </div>

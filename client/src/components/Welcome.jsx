@@ -36,7 +36,7 @@ const Welcome = () => {
             <div className="flex mf:flex-row flex-col items-start
             justify-between md:p-20 py-12 px-4">
                 <div className="flex flex-1 justify-start flex-col mf:mr-10">
-                    <h1  className="text-3xl sm:text-5xl text-white text-gradient py-1">
+                    <h1  className="text-3xl sm:text-5xl text-white text-gradient py-1 font-extrabold">
                         Send Crypto <br/> across the world
                     </h1>
                     <p className="text-left mt-5 text-white font-light md:w-9/12 w-11/12 text-base">
@@ -49,7 +49,7 @@ const Welcome = () => {
                     </button>
                     )}
 
-                    <div className="animate-slide-in grid sm:grid-cols-3 grid-cols-2 w-full mt-10">
+                    <div className="animate-slide-in grid sm:grid-cols-3 grid-cols-2 w-full mt-10 font-bold">
                         <div className={`rounded-tl-2xl ${commonStyles}`}>
                             Reliability
                         </div>
