@@ -5,8 +5,8 @@ const WorkCardData = [
     {
         imgsrc: github,
         title:"Namaste Blockchain",
-        text:"Visit our namaste blockchain repo on Github and get an overview of all the basic concepts ",
-        view:"https://github.com/CODEX108/Namaste-BlockChain"
+        text:"Visit our namaste blockchain blog on Hashnode and get an overview of all the basic concepts ",
+        view:"https://blockspirit.hashnode.dev/namaste-blockchain-by-blockspirit"
 
     },
 
