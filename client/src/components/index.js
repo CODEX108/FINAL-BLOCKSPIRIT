@@ -10,4 +10,4 @@ export {default as Terminology} from './Terminology';
 export {default as Work} from './Work';
 export {default as MarketPlace} from './MarketPlace';
 export {default as Market } from '../routes/Market';
-
+export {default as Hero} from './Hero';

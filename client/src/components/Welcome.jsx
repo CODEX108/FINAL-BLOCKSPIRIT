@@ -2,6 +2,8 @@ import React, {useContext} from  "react";
 import { AiFillPlayCircle } from "react-icons/ai";
 import {SiEthereum} from 'react-icons/si';
 import {BsInfoCircle} from 'react-icons/bs';
+import ill from '../assets/ilus-code.png'
+import "./market.css";
 
 import { TransactionContext } from "../context/TransactionContext";
 import {Loader} from './';
@@ -44,26 +46,30 @@ const Welcome = () => {
                     </p>
                     {!currentAccount && (
                     <button type="button" onClick={connectWallet}
-                    className = "animate-pulse 2s cubic-bezier(0.4, 0, 0.6, 1) infinite  flex flex-row justify-center items-center my-5 bg-[#2952e3] p-3 rounded-full cursor-pointer hover:bg-[#2546bd]">
+                    className = "animate-pulse 2s cubic-bezier(0.4, 0, 0.6, 1) infinite  flex flex-row justify-center items-center my-5 p-3 rounded-full cursor-pointer bg-[#2952e3] hover:bg-[#2546bd] ">
                     <p className="text-white text-base font-semibold">Connect Wallet</p>
                     </button>
                     )}
 
                     <div className="animate-slide-in grid sm:grid-cols-3 grid-cols-2 w-full mt-10 font-bold">
-                        <div className={`rounded-tl-2xl ${commonStyles}`}>
-                            Reliability
+                   
+
+                    <div>
+                            {/* Reliability */}
                         </div>
-                        <div className={commonStyles}>Security</div>
-                        <div className={`rounded-tr-2xl ${commonStyles}`}>
-                            Ethereum
+                        <div > <img src= {ill}></img></div>
+                        <div >
+                            {/* Ethereum */}
                         </div>
-                        <div className={`rounded-bl-2xl ${commonStyles}`}>
-                            Web 3.0
+                        <div >
+                            {/* Web 3.0 */}
                         </div>
-                        <div className={commonStyles}>Low Fees</div>
-                        <div className={`rounded-br-2xl ${commonStyles}`}>
-                            BlockChain
+                        <div ></div>
+                        <div >
+                            {/* BlockChain */}
                         </div>
+
+                        
                     </div>
                 </div>
 
