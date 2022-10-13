@@ -18,7 +18,13 @@
   
   
   
-
+.box{
+padding-top: 2rem;
+padding-left: 5rem;
+padding-bottom:5rem;
+    width:40rem;
+    height: 70%;
+ }
 
 .gpt3__header {
     display: flex;
