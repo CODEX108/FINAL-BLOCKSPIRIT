@@ -59,7 +59,7 @@ const Navbar = () => {
                                 <Link to="/market">Market</Link>
                             </li>
                             <li className="text-white hover:text-white-200">
-                                <Link to="/tutorial">Tutorial</Link>
+                                <Link to="/tutorial">Learnings</Link>
                             </li>
                             <li className="text-white hover:text-white-200">
                                 <a href="https://etherscan.io/">Wallet</a>
