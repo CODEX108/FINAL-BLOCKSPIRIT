@@ -22,16 +22,16 @@ const Navbar = () => {
             </div>
             <ul className='text-white md:flex hidden list-none flex-grow justify-end items-center flex-initial'>
                 {/* {[`${Market},${Exchange},${Tutorials},}`].map((item, index)=>( */}
-                <li className="  text-white px-3 py-2 rounded-md text-sm font-medium">
+                <li className="  text-white px-3 py-2 rounded-md text-sm font-medium transition ease-in-out delay-150 hover:-translate-y-1 hover:scale-110 hover:bg-[#2546bd] duration-300 ">
                     <Link to="/">Home</Link>
                 </li>
-                <li className=" text-white px-3 py-2 rounded-md text-sm font-medium">
+                <li className=" text-white px-3 py-2 rounded-md text-sm font-medium transition ease-in-out delay-150 hover:-translate-y-1 hover:scale-110 hover:bg-[#2546bd] duration-300 ">
                     <Link to="/market">Market</Link>
                 </li>
-                <li className=" text-white px-3 py-2 rounded-md text-sm font-medium">
-                    <Link to="/tutorial">Tutorial</Link>
+                <li className=" text-white px-3 py-2 rounded-md text-sm font-medium transition ease-in-out delay-150 hover:-translate-y-1 hover:scale-110 hover:bg-[#2546bd] duration-300">
+                    <Link to="/tutorial">Learnings</Link>
                 </li>
-                <li className='bg-[#2952e3] py-2 px-7 mx-4 rounded-full cursor-pointer hover:bg-[#2546bd]'>
+                <li className='bg-[#2952e3] py-2 px-7 mx-4 rounded-full cursor-pointer transition ease-in-out delay-150 hover:-translate-y-1 hover:scale-110 hover:bg-[#2546bd] duration-300'>
                     <a href="https://etherscan.io/">Wallet</a>
                 </li>
             </ul>

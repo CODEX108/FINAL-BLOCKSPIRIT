@@ -12,7 +12,7 @@ const Hero = () => (
       </p>
       <div>
         
-        <div className='my-4 py-4 px-7 text-white bg-gradient-to-r from-cyan-500 to-blue-500 hover:bg-gradient-to-bl focus:ring-4 focus:outline-none focus:ring-cyan-300 dark:focus:ring-cyan-800 font-medium rounded-lg text-sm px-5 py-2.5 text-center mr-2 mb-2'>
+        <div className='my-4 py-4 px-7 text-white bg-gradient-to-r from-cyan-500 to-blue-500 hover:bg-gradient-to-bl focus:ring-4 focus:outline-none focus:ring-cyan-300 dark:focus:ring-cyan-800 font-medium rounded-lg text-sm  text-center mr-2 mb-2  transition ease-in-out delay-150 hover:-translate-y-1 hover:scale-110 hover:bg-[#2546bd] duration-300'>
        <a href='https://blockspirit-market.vercel.app/' type='button'>Get Started</a>
         </div>
       </div>
@@ -23,7 +23,7 @@ const Hero = () => (
       </div> */}
     </div>
 
-    <div className="gpt3__header-image   ">
+    <div className="gpt3__header-image  ">
       <img src={hexa} alt = "polygon"/>
     </div>
   </div>
