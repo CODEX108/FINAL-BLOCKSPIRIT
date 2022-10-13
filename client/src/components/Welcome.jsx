@@ -2,8 +2,8 @@ import React, {useContext} from  "react";
 import { AiFillPlayCircle } from "react-icons/ai";
 import {SiEthereum} from 'react-icons/si';
 import {BsInfoCircle} from 'react-icons/bs';
-import ill from '../assets/ilus-code.png'
-import "./market.css";
+import box from '../assets/box.png';
+import './market.css'
 
 import { TransactionContext } from "../context/TransactionContext";
 import {Loader} from './';
@@ -50,28 +50,10 @@ const Welcome = () => {
                     <p className="text-white text-base font-semibold">Connect Wallet</p>
                     </button>
                     )}
-
-                    <div className="animate-slide-in grid sm:grid-cols-3 grid-cols-2 w-full mt-10 font-bold">
-                   
-
-                    <div>
-                            {/* Reliability */}
-                        </div>
-                        <div > <img src= {ill}></img></div>
-                        <div >
-                            {/* Ethereum */}
-                        </div>
-                        <div >
-                            {/* Web 3.0 */}
-                        </div>
-                        <div ></div>
-                        <div >
-                            {/* BlockChain */}
-                        </div>
-
                         
-                    </div>
+                        <img className=" box -my-20 " src={box} alt="" />
                 </div>
+                
 
                 <div className="flex flex-col flex-1 items-center justify-start w-full 
                 mf:mt-0 mt-10 " >
