@@ -240,10 +240,19 @@
         line-height: 24px;
     }
 
-    .gpt3__header-content__input input,
-    .gpt3__header-content__input button {
-        font-size: 12px;
-        line-height: 16px;
+    
+    .gpt3__header-content__input .email
+    {
+        font-size: 10px;
+        line-height: 24px;
+        margin-right:0px;
+        
+    }
+    .gpt3__header-content__input .glow-on-hover {
+        width:45%;
+        margin-right:35px;
+        margin-left:-55px;
+        
     }
 }
 
