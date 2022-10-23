@@ -178,8 +178,8 @@
   
   
 
-@media screen and (max-width: 1050px) {
-    .gpt3__header {
+  @media screen and (max-width: 1050px) {
+    .gpt3__header  {
         flex-direction: column;
     }
 
@@ -206,11 +206,26 @@
     .gpt3__header-content__people p {
         margin: 0;
     }
-
-    .gpt3__header-content__input input,
-    .gpt3__header-content__input button {
-        font-size: 16px;
+   
+    .gpt3__header-content__input .email
+    {
+        font-size: 10px;
         line-height: 24px;
+        margin-right:0px;
+        
+    }
+    .gpt3__header-content__input .glow-on-hover {
+        width:30%;
+        margin-right:40px;
+        margin-left:-60px;
+        
+    }
+    .gpt3__header-content__input .glow-on-hover  a
+    {
+       font-size:12px;
+       
+       
+        
     }
 }
 
@@ -218,16 +233,28 @@
     .gpt3__header-content h1 {
         font-size: 36px;
         line-height: 48px;
+        margin-left:-50px;
     }
 
     .gpt3__header-content p {
         font-size: 14px;
         line-height: 24px;
+        margin-left:-50px;
     }
 
-    .gpt3__header-content__input input,
-    .gpt3__header-content__input button {
-        font-size: 12px;
-        line-height: 16px;
+    
+    .gpt3__header-content__input .email
+    {
+        font-size: 10px;
+        line-height: 24px;
+        margin-left:-40px;
+        
+    }
+    .gpt3__header-content__input .glow-on-hover {
+        width:40%;
+        margin-right:35px;
+        margin-left:-55px;
+        
     }
 }
+
