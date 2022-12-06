@@ -16,11 +16,12 @@ A modular design integrates Proof-of-stake underlies certain consensus mechanism
 - ### [Visit BlockSpirit](https://blockspirit.vercel.app/)
 
 ## References
-[1 Solidity documentation:]( https://docs.soliditylang.org/en/v0.8.10/)
-[2 React documentation:]( https://reactjs.org/docs/getting-started.html [3]Hardhatplugins : https://hardhat.org/hardhat-runner/plugins)
-[4 Goerli Testnet :]( https://goerlifaucet.com/)
-[5 Etherscan Website:]( https://etherscan.io/)
-[6 Web3 documentation](: https://web3js.readthedocs.io/)
+[1 Solidity documentation:](https://docs.soliditylang.org/en/v0.8.10/)</br>
+[2 React documentation:](https://reactjs.org/docs/getting-started.html)</br>
+[3 Hardhatplugins :](https://hardhat.org/hardhat-runner/plugins)</br>
+[4 Goerli Testnet :](https://goerlifaucet.com/)</br>
+[5 Etherscan Website:](https://etherscan.io/)</br>
+[6 Web3 documentation](https://web3js.readthedocs.io/)
 [7 Giphy for Developers:]( https://developers.giphy.com/)
 [8 StackOverflow :]( https://stackoverflow.com/)
 
