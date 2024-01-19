@@ -14,6 +14,15 @@ A modular design integrates Proof-of-stake underlies certain consensus mechanism
 <li>The purpose of this project is to contribute, in preparation for field of education because learning Web3 is not easy. There is a lot of information fragmentation, and not all knowledge gaps are properly addressed. We saw a great need for a place where developers can come and learn everything there is to know to get to a point where they can feel very confident in developing their own dApps and protocols. We want there to be diversity in who benefits from Web3. </li>
 </p>
 
+![image](https://github.com/CODEX108/FINAL-BLOCKSPIRIT/assets/82377810/a4322e01-b74f-4eab-a62c-7b86c0288855)
+
+![image](https://github.com/CODEX108/FINAL-BLOCKSPIRIT/assets/82377810/dff5c8d9-7a05-453e-a87b-d140e56207cf)
+
+![image](https://github.com/CODEX108/FINAL-BLOCKSPIRIT/assets/82377810/224d569f-6999-4142-a8ed-2ba36c765188)
+
+![image](https://github.com/CODEX108/FINAL-BLOCKSPIRIT/assets/82377810/8b3dff00-9836-49bd-b8ab-2f2682e04955)
+
+
 
 - ### [A video of the overall functioning of the website](https://www.youtube.com/watch?v=oIlqojqDw0I&t=14s)
 - ### [Visit BlockSpirit](https://blockspirit.vercel.app/)
