@@ -1,9 +1,6 @@
 
 <img width="578" alt="logo" src="https://user-images.githubusercontent.com/82377810/203807733-19476645-0cb0-4ef2-8efa-657d309eb992.png">
 
-
-> This is our college major project,here is the abstract which gives an overview about our agenda
-
 <p><li> Blockchain is itself a really big concept to cover and since the web3 is becoming not just a conceptual model infact coming reality. We saw a big flaw in student learning blockchain and cryptocurrency. Today’s generation face a lot of problems to understand crypto with a very clear concept and blockchain is just a part of cryptocurrency operation. In this, we propose BlockSpirit, A decentralized Virtual Simulator which is based on Proof-of-stake and work as a virtual trading platform for students and passionate cryptocurrency enthusiast to take a first step in the future of web i.e WEB 3.0.</li>
   <br>
 <li> Our mission is to create a grassroots organization that creates fully-fledged developers and brings them into the ecosystem. It enables cross-blockchain transfers of any type of data or asset, not just tokens. Connecting to Goerli gives you the ability to interoperate with a wide variety of blockchains in the Goerli network.
@@ -22,10 +19,6 @@ A modular design integrates Proof-of-stake underlies certain consensus mechanism
 
 ![image](https://github.com/CODEX108/FINAL-BLOCKSPIRIT/assets/82377810/8b3dff00-9836-49bd-b8ab-2f2682e04955)
 
-
-
-- ### [A video of the overall functioning of the website](https://www.youtube.com/watch?v=oIlqojqDw0I&t=14s)
-- ### [Visit BlockSpirit](https://blockspirit.vercel.app/)
 
 ## References
 [1 Solidity documentation](https://docs.soliditylang.org/en/v0.8.10/)</br>
